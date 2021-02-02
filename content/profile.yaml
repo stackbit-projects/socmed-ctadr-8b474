@@ -7,7 +7,7 @@
   location: 'Department of Statistic, MYS'
   relocation: true
   company: Core Team Analitik Data Raya
-  for_hire: true
+  for_hire: false
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
   about: >
