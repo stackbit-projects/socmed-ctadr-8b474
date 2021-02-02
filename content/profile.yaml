@@ -4,7 +4,7 @@
   email: john.doe@change.me
   profession: Web Developer
   image: images/profile.jpg
-  location: Department of Statistic
+  location: 'Department of Statistic, MYS'
   relocation: true
   company: Atomic Studio
   for_hire: true
